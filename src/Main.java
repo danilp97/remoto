@@ -21,7 +21,7 @@ public class Main {
         }
 
         for (int i= 0;i<popocho;i++) {
-            System.out.println("Zzz...");
+            System.out.println("Zzzzz...");
         }
         System.out.println("Todos los popochos están durmiendo");
     }
